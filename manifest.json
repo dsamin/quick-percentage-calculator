@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "Quick Percentage Calculator Pro",
+  "version": "1.0",
+  "description": "Calculate percentages easily - find differences between numbers and apply percentage changes with a modern calculator.",
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  },
+  "permissions": [],
+  "author": "Your Name",
+  "homepage_url": "https://your-website.com",
+  "keywords": [
+    "percentage calculator",
+    "percent difference",
+    "percentage change",
+    "percentage math",
+    "calculator"
+  ]
+} 
